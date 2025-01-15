@@ -43,7 +43,8 @@ You can indicate emphasis with bold, italic, strikethrough, subscript, or supers
 | Superscript | `<sup> </sup>` | None | `This is a <sup>superscript</sup> text` | This is a <sup>superscript</sup> text |
 | Underline | `<ins> </ins>` | None | `This is an <ins>underlined</ins> text` | This is an <ins>underlined</ins> text |
 
-## Quoting text
+## PARTZKOH ![a54ba592-524e-420b-952c-e6e8762b2306-1_all_324](https://github.com/user-attachments/assets/c239ddc0-0b55-49c2-a03c-34c81d42f64c)
+
 
 You can quote text with a <kbd>></kbd>.
 
